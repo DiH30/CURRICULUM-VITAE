@@ -10,4 +10,4 @@ Este proyecto tiene como objetivo principal aprender a gestionar proyectos de de
 
   ## Código
 
-  ![Vista Previa](https://i.postimg.cc/c4ZPXRsH/codigo.jpg)
+  ![Vista Previa](https://i.postimg.cc/x1q5FTqk/C-digo-1-0.jpg)
